@@ -1,0 +1,12 @@
+1. Inputs for the simulation:
+   - Population size: 100000
+   - Percent vaccinated: 90%
+   - Virus name: Ebola
+   - Mortality rate: 70%
+   - Reproductive rate: 25
+
+2. Percentage of the population infected before the virus burned out: 85%
+
+3. Percentage of the population that died from the virus: 50%
+
+4. Total instances where vaccination prevented potential infection: 3500 times
